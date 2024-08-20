@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92c4d510-8a9e-4641-948d-032c8a211701" name="Changes" comment="modificadores_getters">
-      <changelist_data name="Carlos98770" email="" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/Caneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploPratico/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploPratico/ContaBanco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724108476374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modificadores_getters">
+      <option name="closed" value="true" />
+      <created>1724111502075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724111502075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
