@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c4d510-8a9e-4641-948d-032c8a211701" name="Changes" comment="modificadores_getters">
-      <change afterPath="$PROJECT_DIR$/src/ExemploPratico/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploPratico/ContaBanco.java" afterDir="false" />
+    <list default="true" id="92c4d510-8a9e-4641-948d-032c8a211701" name="Changes" comment="Criando um exemplo pratico de conta em banco">
+      <change afterPath="$PROJECT_DIR$/src/Encapsulamento/Controlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulamento/ControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulamento/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploPratico/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemploPratico/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploPratico/ContaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemploPratico/ContaBanco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,15 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/eduardo09/Documentos/JAVA/POO_Fudamentos/src/introducao/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Banco.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/eduardo09/Documentos/JAVA/POO_Fudamentos/src/introducao/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,13 +97,33 @@
       <option name="project" value="LOCAL" />
       <updated>1724111502075</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criando um exemplo pratico de conta em banco">
+      <option name="closed" value="true" />
+      <created>1724115414339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724115414339</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando" />
     <MESSAGE value="modificadores e getters" />
     <MESSAGE value="modificadores_getters" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificadores_getters" />
+    <MESSAGE value="Criando um exemplo pratico de conta em banco" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando um exemplo pratico de conta em banco" />
   </component>
 </project>
